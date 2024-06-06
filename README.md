@@ -10,7 +10,7 @@ I have a particular passion for native ecosystems and natural resource managemen
 * I live in Colorful Colorado 🍂
 * I love everything nature, but the mountains are my favorite 🏔️
 * As a challenge enthusiast, I am teaching myself Python
-* Traveling is one of my favorite hobbies. I lived in England for 15 years, and have traveled to 15 countries in Europe before the age of 14 🌍
+* Traveling is one of my favorite hobbies. I have traveled to 15 countries in Europe and visited 7 US National Parks 🌍
 * [Ajax](https://github.com/Athena-Gerardo/Athena-Gerardo/blob/main/Ajax.PNG) is my best furry friend 🐾🐾
 
 ## Certifications
