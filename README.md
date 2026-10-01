@@ -19,11 +19,6 @@ Google Data Analytics Professional Certificate
 <img src="Certificate.PNG" width="130" height="100"/>
 
 ## Let's connect!
-[LinkedIn](https://www.linkedin.com/in/athena-gerardo-635611161/)
-
-Email: athena.gerardo@gmail.com
-
-
 
 ![](https://komarev.com/ghpvc/?username=Athena-Gerardo&color=CCCCFF&style=for-the-badge)
 
